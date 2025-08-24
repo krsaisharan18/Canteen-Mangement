@@ -1,4 +1,4 @@
-# 🍕📚 College Canteen & Stationery Management (Frontend Only)
+# 🍕📚 College Canteen & Stationery Management
 
 A simple **frontend-based web application** to manage a **college canteen & stationery shop**.
 This project is built using **HTML, CSS, and JavaScript** with **LocalStorage** acting as the backend for user authentication, cart management, and order handling.

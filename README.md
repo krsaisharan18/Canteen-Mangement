@@ -68,13 +68,6 @@ This project is built using **HTML, CSS, and JavaScript** with **LocalStorage** 
 
 ---
 
-## 📸 Screenshots (Optional)
-
-* 🛒 **Canteen & Stationery Menu**
-* 📦 **Cart Page**
-* 💳 **Payment Options**
-* ✅ **Order Summary with WhatsApp Integration**
-
 ---
 
 ## ⚠️ Limitations
